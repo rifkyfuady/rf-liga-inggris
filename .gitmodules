@@ -1,4 +1,4 @@
 [submodule "dist"]
 	path = dist
-	url = git@github.com:rifkyfuady/rifkyfuady.github.io.git
+	url = git@github.com:rifkyfuady/rf-liga-inggris.git
 	branch = master

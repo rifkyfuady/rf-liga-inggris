@@ -78,6 +78,7 @@ module.exports = {
             short_name: 'Liga RF',
             description: 'Aplikasi submission kedua liga Inggris',
             background_color: '#0069c0',
+            theme_color: "#0069c0",
             gcm_sender_id: "72344101608",
             icons: [
             {
